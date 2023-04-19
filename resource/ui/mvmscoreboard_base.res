@@ -91,7 +91,7 @@
 		"xpos"										"-8"
 		"ypos"										"0"
 		"zpos"										"3"
-		"wide"										"200"
+		"wide"										"350"
 		"tall"										"28"
 		"AllCaps"									"1"
 		"fgcolor"									"White"
