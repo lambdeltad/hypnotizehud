@@ -4,7 +4,7 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"GreenBG"
-		"xpos"										"0"
+		"xpos"										"53"
 		"ypos"										"0"
 		"zpos"										"0"
 		"wide"										"50"
@@ -21,7 +21,7 @@
 		"fieldName"									"Currency"
 		"font"										"Size_12"
 		"fgcolor"									"White"
-		"xpos"										"0"
+		"xpos"										"53"
 		"ypos"										"0"
 		"zpos"										"4"
 		"wide"										"50"
