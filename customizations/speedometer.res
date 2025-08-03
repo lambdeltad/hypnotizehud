@@ -7,4 +7,4 @@
 // https://github.com/Hypnootize/Hypnotize-Hud/wiki/Speedometer
 //=============================================================================================
 
-//#base "../resource/ui/speedometer.res"
+#base "../resource/ui/speedometer.res"
