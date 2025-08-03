@@ -36,10 +36,10 @@
 		"labeltext"									""
 		"smallcheckimage"							"0"
 		"AllCaps"									"1"
-		"fgcolor"									"White"	
+		"fgcolor"									"White"
 		"font"										"Size_14"
 
-		"sound_depressed"							"UI/buttonclickrelease.wav"	
+		"sound_depressed"							"UI/buttonclickrelease.wav"
 		"button_activation_type"					"1"
-	}	
+	}
 }
