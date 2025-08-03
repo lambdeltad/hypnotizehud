@@ -69,7 +69,7 @@
 			"model_ypos"							"5"
 			"model_wide"							"87"
 			"model_tall"							"63"
-			
+
 			"text_wide"								"140"
 			"text_xpos"								"0"
 			"text_ypos"								"80"
